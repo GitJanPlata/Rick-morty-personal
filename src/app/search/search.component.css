@@ -1,0 +1,25 @@
+.row{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.card{
+    width: 80%;
+    margin-top: 5%;
+}
+h5{
+    margin-left: 3%;
+}
+a{
+    border: none;
+    font-weight: bold;
+    color: black;
+    background-color: rgb(255, 196, 0);
+}
+
+a:hover{
+    background-color: rgb(255, 196, 0);
+}
+a.btn-primary {
+    width: 100%;
+    margin-top: 10px;
+}

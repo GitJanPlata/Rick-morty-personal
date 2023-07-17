@@ -1,0 +1,47 @@
+.login{
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background: url('../../assets/fondo-register.png    ') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+h1{
+    font-weight: bold;
+}
+label{
+    margin-bottom: 2%;
+    font-weight: bold;
+}
+.form-group{
+    margin-bottom: 3%;
+    
+}
+.card{
+    border: none;
+    background-color: rgba(255, 255, 255, 0.8);
+}
+.btn{
+    border: none;
+    background-color: rgb(7, 202, 40);
+}
+.btn:hover{
+    background-color: rgb(8, 150, 32);
+}
+
+a{
+    color: rgb(8, 150, 32);
+    text-decoration: none;
+    font-weight: bold;        
+}
+a:hover{
+    text-decoration: underline;
+}

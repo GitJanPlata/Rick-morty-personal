@@ -1,0 +1,18 @@
+.detalles{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 90vh;
+}
+p{
+
+    font-size: 20px;
+}
+img{
+    border-radius: 5px;
+    margin-bottom: 3% ;
+    margin-top: 3% ;
+}
+h2{
+    text-align: center;
+}

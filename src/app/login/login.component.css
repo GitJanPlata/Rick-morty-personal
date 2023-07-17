@@ -1,0 +1,38 @@
+.login{
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background: url('../../assets/fondo-login.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+label{
+    margin-bottom: 3%;
+    font-weight: bold;
+}
+.form-group{
+    margin-bottom: 3%;
+    
+}
+h1{
+    font-weight: bold;
+}
+.card{
+    border: none;
+    background-color: rgba(255, 255, 255, 0.8);
+}
+.btn{
+    border: none;
+    background-color: rgb(7, 202, 40);
+}
+.btn:hover{
+    background-color: rgb(8, 150, 32);
+}
